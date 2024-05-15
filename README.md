@@ -1,4 +1,4 @@
 # ApplicationPage
 
-![picture.png]
+![alt text](pic.png)
 
