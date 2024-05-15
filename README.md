@@ -1,1 +1,4 @@
 # ApplicationPage
+
+![picture.png]
+
